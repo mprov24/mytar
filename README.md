@@ -1,3 +1,7 @@
+Build:
+
+`make`
+
 Usage:
 
 `./mytar [ctxvS[f tarfile]] [file1 [ file2 [...] ] ]`
